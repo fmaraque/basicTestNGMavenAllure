@@ -1,0 +1,48 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 2,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 1,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "9e7ea2e49d816c6c",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 2,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 1,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "19786e5b3a869e03",
+        "name" : "areTheNumbersEquals",
+        "title" : "Are the numbers equals",
+        "time" : {
+          "start" : 1469871045925,
+          "stop" : 1469871046063,
+          "duration" : 138
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "234bf3cb8dee83f3",
+        "name" : "exampleOfTestNgMaven",
+        "title" : "Example of test ng maven",
+        "time" : {
+          "start" : 1469871046066,
+          "stop" : 1469871046069,
+          "duration" : 3
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
