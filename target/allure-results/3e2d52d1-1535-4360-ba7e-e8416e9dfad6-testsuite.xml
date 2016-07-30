@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1469871048306" stop="1469871048540" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1469873444541" stop="1469873444715" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>Command line suite : Command line test</name>
     <title>Command line suite : Command line test</title>
     <labels>

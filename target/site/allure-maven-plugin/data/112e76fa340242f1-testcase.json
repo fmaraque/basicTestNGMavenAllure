@@ -1,11 +1,11 @@
 {
-  "uid" : "234bf3cb8dee83f3",
-  "name" : "exampleOfTestNgMaven",
-  "title" : "Example of test ng maven",
+  "uid" : "112e76fa340242f1",
+  "name" : "areTheNumbersEquals",
+  "title" : "Are the numbers equals",
   "time" : {
-    "start" : 1469871046066,
-    "stop" : 1469871046069,
-    "duration" : 3
+    "start" : 1469873442283,
+    "stop" : 1469873442397,
+    "duration" : 114
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "7c8ea588e647c215",
+    "uid" : "9ffb02d6f5c4cb06",
     "name" : "Command line suite : Command line test",
     "title" : "Command line suite : Command line test"
   },
@@ -31,11 +31,11 @@
     "name" : "suite-title",
     "value" : "Command line suite : Command line test"
   }, {
+    "name" : "thread",
+    "value" : "26472@fmaraque.main(1)"
+  }, {
     "name" : "framework",
     "value" : "TestNG"
-  }, {
-    "name" : "thread",
-    "value" : "25440@fmaraque.main(1)"
   }, {
     "name" : "language",
     "value" : "JAVA"

@@ -3,16 +3,16 @@
   "data" : [ {
     "statistic" : {
       "total" : 2,
-      "passed" : 1,
+      "passed" : 2,
       "pending" : 0,
       "canceled" : 0,
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0
     },
     "time" : {
-      "start" : 1469871045925,
-      "stop" : 1469871046069,
-      "duration" : 144
+      "start" : 1469873442283,
+      "stop" : 1469873443192,
+      "duration" : 909
     },
     "name" : "total",
     "type" : "TOTAL"
@@ -20,9 +20,9 @@
     "name" : "defects",
     "type" : "DEFECTS",
     "data" : [ {
-      "count" : 1,
-      "message" : "AssertionError: Number aren't the same expected [2] but found [3]",
-      "status" : "FAILED"
+      "count" : 0,
+      "message" : "There are no defects!",
+      "status" : "PASSED"
     } ]
   }, {
     "name" : "xunit",
@@ -31,10 +31,10 @@
       "title" : "Command line suite : Command line test",
       "statistic" : {
         "total" : 2,
-        "passed" : 1,
+        "passed" : 2,
         "pending" : 0,
         "canceled" : 0,
-        "failed" : 1,
+        "failed" : 0,
         "broken" : 0
       }
     } ]
@@ -45,10 +45,10 @@
       "title" : "Without feature",
       "statistic" : {
         "total" : 2,
-        "passed" : 1,
+        "passed" : 2,
         "pending" : 0,
         "canceled" : 0,
-        "failed" : 1,
+        "failed" : 0,
         "broken" : 0
       }
     } ]

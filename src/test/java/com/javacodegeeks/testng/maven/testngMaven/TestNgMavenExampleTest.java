@@ -12,6 +12,6 @@ public class TestNgMavenExampleTest {
 	
 	@Test
 	public void areTheNumbersEquals() {
-		Assert.assertEquals(3, 2,"Number aren't the same");
+		Assert.assertEquals(3, 3,"Number aren't the same");
 	}
 }

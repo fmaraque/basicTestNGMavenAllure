@@ -1,23 +1,23 @@
 {
   "testCases" : [ {
-    "uid" : "19786e5b3a869e03",
+    "uid" : "112e76fa340242f1",
     "name" : "areTheNumbersEquals",
     "title" : "Are the numbers equals",
     "time" : {
-      "start" : 1469871045925,
-      "stop" : 1469871046063,
-      "duration" : 138
+      "start" : 1469873442283,
+      "stop" : 1469873442397,
+      "duration" : 114
     },
     "severity" : "NORMAL",
-    "status" : "FAILED"
+    "status" : "PASSED"
   }, {
-    "uid" : "234bf3cb8dee83f3",
+    "uid" : "97148eb975c611fc",
     "name" : "exampleOfTestNgMaven",
     "title" : "Example of test ng maven",
     "time" : {
-      "start" : 1469871046066,
-      "stop" : 1469871046069,
-      "duration" : 3
+      "start" : 1469873443179,
+      "stop" : 1469873443192,
+      "duration" : 13
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
