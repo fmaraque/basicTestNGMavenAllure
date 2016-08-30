@@ -7,6 +7,8 @@ test-output
 output
 *.log
 *.lll
+*.kkk
+
 
 # eclipse files
 .project
