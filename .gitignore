@@ -1,0 +1,14 @@
+*/nbproject/*
+
+
+target
+bin
+test-output
+output
+*.log
+*.lll
+
+# eclipse files
+.project
+.classpath
+.settings
