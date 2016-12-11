@@ -55,6 +55,12 @@
         			</dependency>
     			</dependencies>
 			</plugin>
+			
+			<plugin>
+		        <groupId>com.soebes.maven.plugins</groupId>
+		        <artifactId>doxygen-maven-plugin</artifactId>
+		        <version>1.1.0</version>
+      		</plugin>
   </plugins>
   </build>
   <reporting>
@@ -65,6 +71,12 @@
 	            <artifactId>allure-maven-plugin</artifactId>
 	            <version>2.5</version>
 	        </plugin>
+	        
+	        <plugin>
+		        <groupId>com.soebes.maven.plugins</groupId>
+		        <artifactId>doxygen-maven-plugin</artifactId>
+		        <version>1.1.0</version>
+      		</plugin> 
 	    </plugins>
 	</reporting>
 </project>
